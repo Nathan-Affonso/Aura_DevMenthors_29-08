@@ -1,4 +1,4 @@
-.model small
+.model big
 .stack 100h
 .data
     msg db "heber$", 0  ; 
